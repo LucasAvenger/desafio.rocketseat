@@ -629,7 +629,7 @@ section h3 i {
 }
 
 .skills [data-content] {
-    display: none;
+    display: inline-flex;
 }
 
 
